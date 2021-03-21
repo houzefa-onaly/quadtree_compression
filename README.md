@@ -4,6 +4,8 @@ This is an implementation of the following article :
 
 [Click here to read the article](https://medium.com/@tannerwyork/quadtrees-for-image-processing-302536c95c00)
 
+### Author of the implementation : Akilhoussen Onaly
+
 ### Example of result :
 Before| After
 ------------ | -------------
